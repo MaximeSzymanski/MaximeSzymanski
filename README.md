@@ -22,7 +22,11 @@ ___
 This project is a self-made PPO, a reinforcement learning algorithm. It is implemented in PyTorch and is tested on OpenAI Gym environments. 
 
     Relevant features : Discrete and Continuous action spaces handling, TensorBoard logging, Hyperparameters tuning, etc.
+- [**SplendIA : AI to play Splendor board game**](https://github.com/MaximeSzymanski/splendia) :
+This project is an AI to play Splendor board game. It is implemented in Python and is tested on Splendor board game. As a team, we implemented the board game and the AI. I was in charge of the AI part. 
+We tested Monte-Carlo Tree Search and Alpha-Beta pruning algorithms. Moreover, we implemented a PPO algorithm to play the game, as a Self-Play algorithm.
 
+    Relevant features : Self-Play reinforcement learning, Alpha-Beta pruning, Monte-Carlo Tree Search, etc.
 - [**Stocks Clustering**](https://github.com/MaximeSzymanski/StocksClustering) :
 This project is a stocks clustering algorithm. It is implemented in Python and is tested on historical stocks data. 
 
