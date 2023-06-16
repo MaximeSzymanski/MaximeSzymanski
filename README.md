@@ -9,6 +9,9 @@ I'm passionate about AI and I'm currently learning about it. I like implementing
   </a>
 </div>
 
+Check out my Medium profile for more details: [Maxime Szymanski on Medium](https://medium.com/@maxime.szymanski)
+
+
 ---
 ### 📚 Research papers
 - [**Development of a Map-Matching Algorithm for the Analysis of Aircraft Ground Trajectories using ADS-B Data**](https://arc.aiaa.org/doi/10.2514/6.2023-3758):
