@@ -24,7 +24,7 @@ This paper is about a map-matching algorithm for the analysis of aircraft ground
 ___ 
 
 ### 🚀 Relevant projects
--[**DeepRL_implementation**](https://github.com/MaximeSzymanski/DeepRL_implementation) :
+-[**DeepRL Atari implementation**](https://github.com/MaximeSzymanski/DeepRL_Atari_implementation) :
 This project is a collection of Deep Reinforcement Learning algorithms. It is implemented in PyTorch and is tested on OpenAI Gym environments, including AtariGames.
     Relevant features : DQN, PPO, DDPG, AtariGames, Pytorch.
 
