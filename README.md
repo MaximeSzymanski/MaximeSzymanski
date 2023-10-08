@@ -16,16 +16,19 @@ Check out my Medium profile for more details: [Maxime Szymanski on Medium](https
 ### 📚 Research papers
 - [**Single and Multi-Agent Reinforcement Learning Approach to - Optimize Aircraft Ground Trajectories at Airports**](https://www.eucass.eu/component/docindexer/?task=download&id=7052):
 This paper is about a reinforcement learning approach to optimize aircraft ground trajectories at airports. It is implemented in Python and is tested on a simplified airport environment.
+
     Relevant features : PPO, Single and Multi-Agent Reinforcement Learning.
 
 - [**Development of a Map-Matching Algorithm for the Analysis of Aircraft Ground Trajectories using ADS-B Data**](https://arc.aiaa.org/doi/10.2514/6.2023-3758):
 This paper is about a map-matching algorithm for the analysis of aircraft ground trajectories using ADS-B data. It is implemented in Python and is tested on real aircraft trajectories.
+
     Relevant features : Hidden Markov Model, Viterbi algorithm.
 ___ 
 
 ### 🚀 Relevant projects
 - [**DeepRL Atari implementation**](https://github.com/MaximeSzymanski/DeepRL_Atari_implementation) :
 This project is a collection of Deep Reinforcement Learning algorithms. It is implemented in PyTorch and is tested on OpenAI Gym environments, including AtariGames.
+
     Relevant features : DQN, PPO, DDPG, AtariGames, Pytorch.
 
 - [**PPO implementation**](https://github.com/MaximeSzymanski/PPO) :
